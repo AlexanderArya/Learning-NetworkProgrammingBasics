@@ -1,0 +1,50 @@
+[ 
+	{
+	"Presensi" : [
+	{ 
+		"No" : "31.",
+		"NIM" : "672021088",
+		"Nama" : "FAJAR LEGIANTO ASMIN",
+		"Presensi Masuk" : {
+						"Tanggal" : "22 May 2023",
+						"Jam" : "11:11:45:563"
+					}
+					
+	},
+	{ 
+		"No" : "32.",
+		"NIM" : "672021213",
+		"Nama" : "AXELL AMADEUS SIAGIAN",
+		"Presensi Masuk" : {
+						"Tanggal" : "22 May 2023",
+						"Jam" : "11:12:16:120"
+					}
+	},
+	{ 
+		"No" : "33.",
+		"NIM" : "672021256",
+		"Nama" : "ANDREAN VINI BIMO ARYA WIBOWO",
+		"Presensi Masuk" : {
+						"Tanggal" : "22 May 2023",
+						"Jam" : "11:11:33:880"
+					}
+	},
+	{ 
+		"No" : "34.",
+		"NIM" : "672021273",
+		"Nama" : "SASTRA GANGGA HASTOKO",
+		"Presensi Masuk" : {
+						"Tanggal" : "22 May 2023",
+						"Jam" : "20:29:01:013"
+						}
+	},
+	{ 
+		"No" : "35.",
+		"NIM" : "672021279",
+		"Nama" : "DIKE INDRA WAHYU RESDENY",
+		"Presensi Masuk" : {
+						"Tanggal" : "22 May 2023",
+						"Jam" : "11:13:47:370"
+						}
+	}
+]
